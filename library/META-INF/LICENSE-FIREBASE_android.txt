@@ -1,0 +1,7 @@
+/*! @license
+
+Firebase Java/JVM/Android Realtime Client - License: https://www.firebase.com/terms/terms-of-service.html 
+
+Other license and notice files pertain to included libraries.
+
+*/ 
