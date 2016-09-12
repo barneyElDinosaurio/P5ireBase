@@ -8,5 +8,5 @@ void setup() {
 
 void mousePressed() {
   fire.setValue("Nombre", "Amarito");//Set info to specific key in FireBase
-  println(fire.getValue("Nombre"));//Get from a key
+  println(fire.getValue("Nombre"));//Get info from specific key
 }
