@@ -3,7 +3,7 @@ import P5ireBase.library.*;
 P5ireBase fire;
 void setup() {
   size(400, 400);
-  fire = new P5ireBase(this, "https://yourAppName.firebaseio.com/");//put here ur cloud DB link form firebase console
+  fire = new P5ireBase(this, "https://yourAppName.firebaseio.com/");//put here ur DB link created in firebase console
 }
 
 void mousePressed() {
